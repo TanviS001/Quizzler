@@ -1,3 +1,1 @@
-# quizzler
-
-Quizz app with a beautiful, responsive UI!
+# Quizzler - A Responsive, Cross-Platform Quizz App
